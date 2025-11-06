@@ -63,7 +63,12 @@ I, Awan, am learning programming languages.
 
 <img align="right" height="160" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZ5MWUxaXZmY3ltaXBtajJwcWdqa3h1dG1xa3ozeDJlMW5tcjVsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/46hMzlIbVpWPJAWdUY/giphy.gif"  />
 
-###
+##### Tools and Languages:
+
+ <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+</div>
 
 <div align="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -85,15 +90,6 @@ I, Awan, am learning programming languages.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  
----
-
-##### Application used:
-
-  <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-</div>
 
 ---
 
