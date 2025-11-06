@@ -36,6 +36,8 @@ I, Awan, am learning programming languages.
 
 <br clear="both">
 
+![My Header](img/github-header-banner.jpg)
+
 <h2 align="center">Hi, everyone</h2>
 <h4 align="center">I, Awan, am learning programming languages.</h4>
 
