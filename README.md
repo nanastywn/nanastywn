@@ -41,6 +41,18 @@ I, Awan, am learning programming languages.
 <h2 align="center">Hi, everyone</h2>
 <h4 align="center">I, Awan, am learning programming languages.</h4>
 
+---
+
+##### Play Games With Me:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanastywn&label=Profile%20views&color=0e75b6&style=flat" alt="nanastywn" /> </p>
 
 ##### Github Stats:
@@ -53,7 +65,7 @@ I, Awan, am learning programming languages.
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZ5MWUxaXZmY3ltaXBtajJwcWdqa3h1dG1xa3ozeDJlMW5tcjVsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/46hMzlIbVpWPJAWdUY/giphy.gif"  />
+<img align="right" height="50" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZ5MWUxaXZmY3ltaXBtajJwcWdqa3h1dG1xa3ozeDJlMW5tcjVsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/46hMzlIbVpWPJAWdUY/giphy.gif"  />
 
 ##### Languages:
 
