@@ -1,4 +1,4 @@
-<!-- ![My Header](img/github-header-banner.jpg) -->
+![My Header](img/github-header-banner.jpg)
 
 <!-- ### About me:
 
@@ -35,7 +35,7 @@ I, Awan, am learning programming languages.
 <h1 align="center">Hi, everyone</h1>
 <h3 align="center">I, Awan, am learning programming languages.</h3>
 
-![My Header](img/github-header-banner.jpg)
+<!-- ![My Header](img/github-header-banner.jpg) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanastywn&label=Profile%20views&color=0e75b6&style=flat" alt="nanastywn" /> </p>
 
