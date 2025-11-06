@@ -34,14 +34,6 @@ I, Awan, am learning programming languages.
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <br clear="both">
 
 <h2 align="center">Hi, everyone</h2>
@@ -111,8 +103,10 @@ I, Awan, am learning programming languages.
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nanastywn/nanastywn/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
