@@ -49,7 +49,7 @@ I, Awan, am learning programming languages.
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nanastywn&label=Profile%20views&color=0e75b6&style=flat" alt="nanastywn" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nanastywn&label=Profile%20views&color=0e75b6&style=flat" alt="nanastywn" /> </p>
 
 ##### Github Stats:
 
@@ -66,20 +66,22 @@ I, Awan, am learning programming languages.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
 
-<div align="">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cpp)](https://skillicons.dev)
+
+<!-- <div align="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  /> -->
 
 ###
 
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <!-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> -->
 
 ##### The operating system used:
 
