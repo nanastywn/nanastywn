@@ -105,7 +105,7 @@ I, Awan, am learning programming languages.
   </a>
 </div>
 
-##### Play games Pacman With Me:
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph.svg">
