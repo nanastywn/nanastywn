@@ -2,7 +2,7 @@
 
 <!-- ### About me:
 
-I, Awan, am learning programming languages.
+I, Awan
 
 ##### This:
 
