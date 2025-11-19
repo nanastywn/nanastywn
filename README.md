@@ -43,9 +43,13 @@ I, Awan
 
 ---
 
-##### Play Games Snake With Me:
+##### Play Games Pacman With Me:
 
-<img src="https://raw.githubusercontent.com/nanastywn/nanastywn/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -105,11 +109,4 @@ I, Awan
   </a>
 </div>
 
-### PACMAN:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nanastywn/nanastywn/output/pacman-contribution-graph.svg">
-</picture>
 
-###
