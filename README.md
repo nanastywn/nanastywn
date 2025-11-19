@@ -39,7 +39,7 @@ I, Awan
 ![ini foto](<img/github-header-banner (4).png>)
 
 <h2 align="center">Hi, everyone</h2>
-<h4 align="center">I, Awan, am learning programming languages.</h4>
+<h4 align="center">I, Awan</h4>
 
 ---
 
