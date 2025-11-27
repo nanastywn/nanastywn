@@ -55,9 +55,6 @@ I, Awan
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nanastywn&label=Profile%20views&color=0e75b6&style=flat" alt="nanastywn" /> </p>
 
-##### Github Stats:
-
-## ![nanastywn GitHub stats](https://github-readme-stats.vercel.app/api?username=nanastywn&show_icons=true&theme=transparent)
 
 ###
 
