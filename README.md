@@ -56,9 +56,6 @@ I, Awan
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nanastywn&label=Profile%20views&color=0e75b6&style=flat" alt="nanastywn" /> </p>
 
 
-###
-
-<img align="right" height="160" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZ5MWUxaXZmY3ltaXBtajJwcWdqa3h1dG1xa3ozeDJlMW5tcjVsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/46hMzlIbVpWPJAWdUY/giphy.gif"  />
 
 ##### Tools and Languages:
 
